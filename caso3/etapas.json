@@ -1,0 +1,54 @@
+{ "etapas":
+    [
+        {
+            "Nombre":"Almacigo",
+            "DuracionEnMeses":1,
+            "DaFruto":false,
+            "Muere":false,
+            "Florece":false,
+            "Crece":true,
+            "CrecePorcentaje":30,
+            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\almacigo.jpg"
+        },
+        {
+            "Nombre":"Mediana",
+            "DuracionEnMeses":1,
+            "DaFruto":false,
+            "Muere":false,
+            "Florece":false,
+            "Crece":true,
+            "CrecePorcentaje":30,
+            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\mediana.jpg"
+        },
+        {
+            "Nombre":"Floreada",
+            "DuracionEnMeses":1,
+            "DaFruto":false,
+            "Muere":false,
+            "Florece":true,
+            "Crece":true,
+            "CrecePorcentaje":30,
+            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\floreada.jpg"
+        },
+        {
+            "Nombre":"ConFrutos",
+            "DuracionEnMeses":1,
+            "DaFruto":true,
+            "Muere":false,
+            "Florece":true,
+            "Crece":true,
+            "CrecePorcentaje":30,
+            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\frutos.jpg"
+        },
+        {
+            "Nombre":"Adulta",
+            "DuracionEnMeses":4,
+            "DaFruto":true,
+            "Muere":false,
+            "Florece":true,
+            "Crece":false,
+            "CrecePorcentaje":0,
+            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\adulta.jpg"
+        }
+    ]       
+}
