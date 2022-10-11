@@ -8,7 +8,7 @@
             "Florece":false,
             "Crece":true,
             "CrecePorcentaje":30,
-            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\almacigo.jpg"
+            "URL": "caso3//src//assets//almacigo.jpg"
         },
         {
             "Nombre":"Mediana",
@@ -18,7 +18,7 @@
             "Florece":false,
             "Crece":true,
             "CrecePorcentaje":30,
-            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\mediana.jpg"
+            "URL": "caso3//src//assets//mediana.jpg"
         },
         {
             "Nombre":"Floreada",
@@ -28,7 +28,7 @@
             "Florece":true,
             "Crece":true,
             "CrecePorcentaje":30,
-            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\floreada.jpg"
+            "URL": "caso3//src//assets//floreada.jpg"
         },
         {
             "Nombre":"ConFrutos",
@@ -38,7 +38,7 @@
             "Florece":true,
             "Crece":true,
             "CrecePorcentaje":30,
-            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\frutos.jpg"
+            "URL": "caso3//src//assets//frutos.jpg"
         },
         {
             "Nombre":"Adulta",
@@ -48,7 +48,7 @@
             "Florece":true,
             "Crece":false,
             "CrecePorcentaje":0,
-            "URL": "C:\\Users\\sebas\\eclipse-workspace\\caso3\\src\\assets\\adulta.jpg"
+            "URL": "caso3//src//assets//adulta.jpg"
         }
     ]       
 }
